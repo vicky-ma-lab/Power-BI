@@ -2,4 +2,4 @@
 
 This dashboard analyzes yearly sales trends using Power BI.
 
-![image.png](image.png)
+![Dashboard](image.png)
